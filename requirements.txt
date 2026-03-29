@@ -1,4 +1,4 @@
-#LIBRARIES
+#Python dependencies
 pandas 
 numpy 
 matplotlib 
